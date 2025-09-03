@@ -5,13 +5,13 @@
   
 Always curious. Always tinkering. 🚀  
 
----
+
 
 ## ⚡ About Me  
 - 🎯 Focused on: **C++, OpenCV, computer vision, Qt/QML**  
 - 😄 Fun fact: my code runs faster when I bribe it with coffee ☕✨  
 
----
+
 
 ## 🛠️ Tech Arsenal  
 
@@ -26,19 +26,19 @@ Always curious. Always tinkering. 🚀
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
  
 
----
+
 
 ## 🚀 Highlighted Projects  
 ✨ **Indoor Tracking Prototype** → Real-time employee tracking on 2D maps  
 ✨ **Vision Tools** → Image augmentation previews, OpenCV filters, Qt integrations  
 ✨ **Qt Apps** → Desktop utilities with modern UIs powered by C++ & QML  
 
----
+
 
 ## 🎉 Let’s Connect  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/isvidhi)  
 
----
+
 
 💡 *“Code is where logic meets creativity and that’s where I love to be.”* 🎨
