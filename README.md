@@ -42,5 +42,3 @@ Always curious. Always tinkering. 🚀
 ---
 
 💡 *“Code is where logic meets creativity and that’s where I love to be.”* 🎨
-
-linkedin url issue
