@@ -2,15 +2,12 @@
 
 🎓 Engineering Student | 💻 C++ Developer | 👁️ Computer Vision Enthusiast  
 
-  
 Always curious. Always tinkering. 🚀  
-
 
 
 ## ⚡ About Me  
 - 🎯 Focused on: **C++, OpenCV, computer vision, Qt/QML**  
-- 😄 Fun fact: my code runs faster when I bribe it with coffee ☕✨  
-
+- 😄 Fun fact: My programs don’t run on electricity… they run on coffee and curiosity ☕⚡  
 
 
 ## 🛠️ Tech Arsenal  
@@ -24,8 +21,6 @@ Always curious. Always tinkering. 🚀
 
 **Computer Vision & Mapping:**  
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
- 
-
 
 
 ## 🚀 Highlighted Projects  
@@ -34,11 +29,10 @@ Always curious. Always tinkering. 🚀
 ✨ **Qt Apps** → Desktop utilities with modern UIs powered by C++ & QML  
 
 
-
 ## 🎉 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/isvidhi)  
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isvidhi)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hcpsvidhi25@gmail.com)  
 
 
 💡 *“Code is where logic meets creativity and that’s where I love to be.”* 🎨
